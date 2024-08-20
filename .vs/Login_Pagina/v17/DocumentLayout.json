@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectoLogin16082024\\Login_Pagina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|D:\\ProyectoLogin16082024\\Login_Pagina\\login_pagina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\filters\\redirecttologinfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\filters\\redirecttologinfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|d:\\proyectologin16082024\\login_pagina\\login_pagina\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|D:\\ProyectoLogin16082024\\Login_Pagina\\login_pagina\\models\\dbloginusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\models\\dbloginusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|D:\\ProyectoLogin16082024\\Login_Pagina\\login_pagina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E3AA9F0-FBC5-4AF9-8B06-D32E46825C7E}|Login_Pagina\\Login_Pagina.csproj|solutionrelative:login_pagina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedirectToLoginFilter.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Filters\\RedirectToLoginFilter.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Filters\\RedirectToLoginFilter.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Filters\\RedirectToLoginFilter.cs",
+              "RelativeToolTip": "Login_Pagina\\Filters\\RedirectToLoginFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:57:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Login_Pagina\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Login_Pagina\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T00:33:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login_Pagina\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADgvyMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:19:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeToolTip": "Login_Pagina\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:15:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Program.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Program.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Program.cs",
+              "RelativeToolTip": "Login_Pagina\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:05:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "Login_Pagina\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:17:55.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Controllers\\InicioController.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Login_Pagina\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwCsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:40:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Login_Pagina\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Login_Pagina\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T00:24:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Login_Pagina\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Login_Pagina\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T23:31:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Login_Pagina\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "Login_Pagina\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T23:28:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Recursos\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Recursos\\Utilidades.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Recursos\\Utilidades.cs",
+              "RelativeToolTip": "Login_Pagina\\Recursos\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:16:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbloginUserContext.cs",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Models\\DbloginUserContext.cs",
+              "RelativeDocumentMoniker": "Login_Pagina\\Models\\DbloginUserContext.cs",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\Models\\DbloginUserContext.cs",
+              "RelativeToolTip": "Login_Pagina\\Models\\DbloginUserContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:54:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\appsettings.json",
+              "RelativeDocumentMoniker": "Login_Pagina\\appsettings.json",
+              "ToolTip": "D:\\ProyectoLogin16082024\\Login_Pagina\\Login_Pagina\\appsettings.json",
+              "RelativeToolTip": "Login_Pagina\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T23:03:11.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
